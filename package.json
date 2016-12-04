@@ -1,0 +1,25 @@
+{
+  "name": "goosescrappin",
+  "version": "1.0.0",
+  "description": "a combination of Mongoose, Cheerio, and scraping news from a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skurtz92/gooseScrape.git"
+  },
+  "keywords": [
+    "mongoose",
+    "cheerio",
+    "express",
+    "express-handlebars"
+  ],
+  "author": "Sydney Kurtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skurtz92/gooseScrape/issues"
+  },
+  "homepage": "https://github.com/skurtz92/gooseScrape#readme"
+}
