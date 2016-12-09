@@ -1,6 +1,6 @@
-$.getJSON("/articles", functoin(data) { //grab articles as a JSON
+$.getJSON("/articles", function(data) { //grab articles as a JSON
 //For each one
-for (var i=0; i <data.lenght; i++) {
+for (var i=0; i <data.length; i++) {
 	//display the apropos info on the page
 
 	$("#articles").append("<p data-id='" + data[i]._id + "'>" + data[i].title + "<br />" + data[i].link + "</p>");
